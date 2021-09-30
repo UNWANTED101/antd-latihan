@@ -8,7 +8,7 @@ function Header() {
       <Navbar bg="primary" expand="lg">
         <Container>
           <Navbar.Brand href="#home" className="text-white">
-            People Search!
+            Antd!
           </Navbar.Brand>
         </Container>
       </Navbar>
